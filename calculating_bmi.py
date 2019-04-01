@@ -10,8 +10,8 @@ elif 18.5 < BMI < 25:
  print("Exercises recommended:10km run every week and 10 sets of push up everyday.")
 elif 25 < BMI < 30:
  print("overweight,exercise more often.)
- print（”Exercises recommended：15km run every week and climbing mountains once a week.")
+ print（"Exercises recommended：15km run every week and climbing mountains once a week.")
 else:
- print（“obesity，please eat more vegetables and exercise regularly.")
+ print（"obesity，please eat more vegetables and exercise regularly.")
  print("Exercises recommended:15km run every week and climbing mountains twice a week.")
 
